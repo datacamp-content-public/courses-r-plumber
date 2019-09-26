@@ -1,6 +1,6 @@
 ---
-title: 'Chapter Title Here'
-description: 'Chapter description goes here.'
+title: 'Introduction to Plumber'
+description: 'Create a Rest API''s Using R Plumber Package'
 ---
 
 ## Example coding exercise
